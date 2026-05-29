@@ -120,12 +120,18 @@ docker run pyspark-pipeline
 
 **Sceenshots 
 Folder Structure**
+
+
 <img width="388" height="615" alt="Screenshot 2026-05-29 141028" src="https://github.com/user-attachments/assets/fb4f165f-ef44-47f5-ac43-20ebb6560c0d" />
 
 **Output**
+
+
 <img width="1069" height="557" alt="Screenshot 2026-05-29 141056" src="https://github.com/user-attachments/assets/15d9bd39-302c-433c-bfe5-802b0f82b278" />
 
 **Paraquets**
+
+
 <img width="385" height="872" alt="Screenshot 2026-05-29 141117" src="https://github.com/user-attachments/assets/08d93845-c116-4c83-a163-5aa778bd1abf" />
 
 
