@@ -1,0 +1,7 @@
+venv/
+Output/
+Logs/
+__pycache__/
+*.pyc
+*.log
+*.parquet
