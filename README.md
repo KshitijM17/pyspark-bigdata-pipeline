@@ -117,3 +117,8 @@ docker run pyspark-pipeline
 - Implemented Spark SQL analytics and parquet partitioning
 - Dockerized big data processing workflow
 - Performed distributed transformations on transactional datasets
+
+
+
+
+<img width="388" height="615" alt="Screenshot 2026-05-29 141028" src="https://github.com/user-attachments/assets/fb4f165f-ef44-47f5-ac43-20ebb6560c0d" />
