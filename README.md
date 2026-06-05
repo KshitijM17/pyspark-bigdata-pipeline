@@ -78,7 +78,7 @@ E-Commerce transactional dataset from Kaggle.
 ### 1. Clone Repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/KshitijM17/pyspark-bigdata-pipeline
 ```
 
 ### 2. Install Dependencies
