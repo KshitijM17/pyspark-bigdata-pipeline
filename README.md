@@ -100,13 +100,13 @@ python Scripts/main.py
 ### Build Docker Image
 
 ```bash
-docker build -t pyspark-pipeline .
+docker build --no-cache -t pyspark-pipeline .
 ```
 
 ### Run Container
 
 ```bash
-docker run pyspark-pipeline
+docker run -it pyspark-pipeline sh
 ```
 
 ---
